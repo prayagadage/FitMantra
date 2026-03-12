@@ -10,7 +10,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Demo](https://github.com/user-attachments/assets/e62fb81f-44cf-483b-812c-6f014d3dce2a)
 
 </div>
 
@@ -41,7 +40,6 @@
 - Frames were extracted using a custom Python script
 - **Roboflow** was used for annotation and data augmentation
 
-![Dataset](https://github.com/user-attachments/assets/d0c44cb2-5ad9-462f-9224-b89a302045c7)
 
 ### 2. 🤖 Model Training (YOLOv8)
 - Dataset split: **70% Train / 20% Validation / 10% Test**
@@ -70,10 +68,6 @@ Deployed as an interactive **Streamlit** web app with three input modes:
 | 📂 Video Upload | Upload pre-recorded exercise videos for analysis |
 
 ---
-
-## 🎬 Demo
-
-[▶️ Watch Demo Video](https://github.com/user-attachments/assets/e1b2ff2e-53da-4fdb-9661-9931df81af89)
 
 ---
 
@@ -125,15 +119,3 @@ FitUp/
 ```
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-Made with ❤️ by [Prayag Adage](https://github.com/prayagadage)
-
-</div>
