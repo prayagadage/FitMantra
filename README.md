@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏋️ FitUp — Exercise Pose Correction
+# 🏋️ FitMantra — Exercise Pose Correction
 
 **Real-time AI-powered fitness tracker that detects exercises and corrects your form — live.**
 
@@ -17,7 +17,7 @@
 
 ## � Overview
 
-**FitUp** is a computer vision system that tracks your workouts in real time and gives instant feedback on your exercise form. It uses **YOLOv8** for lightning-fast exercise classification and **MediaPipe Pose** for precise body landmark detection to analyze your posture frame by frame.
+**FitMantra** is a computer vision system that tracks your workouts in real time and gives instant feedback on your exercise form. It uses **YOLOv8** for lightning-fast exercise classification and **MediaPipe Pose** for landmark-based posture analysis.
 
 > 💡 Think of it as a **personal trainer on your screen** — no gym membership needed.
 
@@ -79,8 +79,8 @@ Deployed as an interactive **Streamlit** web app with three input modes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prayagadage/FitUp.git
-cd FitUp
+git clone https://github.com/prayagadage/FitMantra.git
+cd FitMantra
 ```
 
 ### 2. Install Dependencies
@@ -110,7 +110,7 @@ streamlit run excercise_pose_correction.py
 ## 📁 Project Structure
 
 ```
-FitUp/
+FitMantra/
 ├── excercise_pose_correction.py   # Main Streamlit application
 ├── best.pt                        # Trained YOLOv8 model weights
 ├── requirements.txt               # Python dependencies
